@@ -160,6 +160,12 @@ header{
     color: rgb(95, 95, 95);
     font-size: 1.7rem;
 }
+.about-text i{
+    color: #2abb9b;
+    font-size: 10rem;
+    padding-bottom: 1rem;
+    height: 140px;
+}
 .about-content{
     margin-top: 10rem;
 }
